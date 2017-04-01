@@ -1,2 +1,2 @@
-# CubeGenerator
-CubeGenerator maven java-junit project
+# CloudenabledStaticApp
+CloudenabledStaticApp maven java-junit project
